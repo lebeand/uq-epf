@@ -1,8 +1,8 @@
 # Analyzing Uncertainty Quantification in Statistical and Deep Learning Models for Probabilistic Electricity Price Forecasting
-Repository for "Analyzing Uncertainty Quantification in Statistical and Deep Learning Models for Probabilistic Electricity Price Forecasting."
 
-> **Note:** The full code and results will be made available soon.
+This repository contains the code and notebooks for our paper on uncertainty quantification in probabilistic electricity price forecasting.
 
-## Data & Results
+Paper:
+https://ieeexplore.ieee.org/abstract/document/11430173
 
-The dataset and model results will be hosted on Zenodo.
+Precomputed trained models are currently not provided and will be added in the next update.
